@@ -41,39 +41,6 @@ Here are some of the technologies I'm proficient in and enjoy working with:
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-🚀 My Featured Projects
-Here are a few projects I'm particularly proud of. They showcase my ability to build full-stack applications with AI integration.
-
-Project
-
-Description
-
-Technologies Used
-
-Cook AI
-
-An intelligent app that generates recipes from your leftover ingredients using a hybrid AI system.
-
-Java, Spring Boot, MySQL, JavaScript
-
-h7 AI Image Generator
-
-A web platform to generate stunning images from text prompts, featuring a daily credit system.
-
-PHP, MySQL, Hugging Face API, Bootstrap
-
-Synapse AI Notes
-
-A smart note-taking app with AI-powered summarization and categorization to boost productivity.
-
-Java, Spring Boot, Hugging Face, TailwindCSS
-
-Auto Typing Tool
-
-A client-side tool to create realistic typing animations, perfect for tutorials and presentations.
-
-HTML, CSS, Vanilla JavaScript
-
 📊 My GitHub Stats
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhashan-7%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="hashan-7's GitHub Stats" />
@@ -83,6 +50,7 @@ HTML, CSS, Vanilla JavaScript
 
 📫 How to Reach Me
 <p align="center">
-<a href="mailto:chamirahashan0707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<em>(You can add your social media links here)</em><br/><br/>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/></a>
 </p>
