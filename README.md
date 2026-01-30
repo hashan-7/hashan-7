@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 2nd-year **Computer Science undergraduate** passionate about solving real-world problems with technology.
-* 🌱 Currently focusing on **Backend Development** with **Java (Spring Boot)** and **PHP**.
+* 🌱 Currently focusing on **Backend Development** with **Java (Spring Boot)** and **Python**.
 * 🤖 Strong interest in **Artificial Intelligence** — integrating services like Hugging Face API into projects.
 * 👯 Looking to collaborate on **open-source projects** and contribute to the developer community.
 
