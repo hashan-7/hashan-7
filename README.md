@@ -139,9 +139,9 @@
 
 <div align="center">
 
-![Hashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashan-7\&show_icons=true\&theme=dracula\&include_all_commits=true\&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hashan-7\&show_icons=true\&locale=en\&layout=compact\&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hashan-7&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 </div>
 
@@ -150,7 +150,7 @@
 ## 📫 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/chamira-hashan-677a68367" target="_blank">
+<a href="https://linkedin.com/in/chamira-hashan-h7" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:chamirahashan0707@gmail.com">
