@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Chamira Hashan 👋
+# Hi there, I'm Chamira Hashan - h7👋
 
 ### A passionate Computer Science undergraduate from Sri Lanka, exploring the world of AI and Backend Development.
 
