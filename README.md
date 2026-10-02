@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Chamira Hashan
+# Hi 👋, I'm Chamira Hashan - h7
 
 ### Machine Learning • Backend Engineering
 
